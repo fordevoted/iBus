@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">iBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="taoyuan">桃園市</string>
+    <string name="query_bus_route">查詢公車路線</string>
+    <string name="query_near_bus_stop">查詢附近公車站牌</string>
+    <string name="taipei">台北市</string>
+    <string name="taichung">台中市</string>
+    <string name="kaohsiung">高雄市</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="l">鍵盤輸入</string>
+    <string name="_0">0</string>
+    <string name="clean">清空</string>
+    <string name="title">Title</string>
+    <string name="get_on">乘車</string>
+    <string name="content">Content</string>
+    <string name="location">地點</string>
+    <string name="loading">loading</string>
+    <string name="test_time">00:00</string>
+    <string name="secUpdate">秒後更新</string>
+    <string name="request_special_service">請求特殊服務</string>
+    <string name="busdetail">無公車動態</string>
+    <string name="positionNow">目前位置</string>
+    <string name="nearbyBusStop">附近站點</string>
+    <string name="isLocation">所在位置</string>
+    <string name="chooseCity">選擇城市</string>
+    <string name="radius">範圍半徑(公尺)</string>
+    <string name="query">查詢附近公車站</string>
+</resources>
