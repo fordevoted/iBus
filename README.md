@@ -2,7 +2,7 @@
 Twaian city bus dynamic status app for passenger
 
 # Usages
-  [Download apk here](https://drive.google.com/file/d/10wBcIQXfAsbAYhg1lU3oLjGQCp9knz1r/view?usp=sharing "download apk")
+  [Download apk here](https://drive.google.com/file/d/1kqAncnw29fr4RsWNe2Dxqwluz7j10Cwg/view?usp=sharing "download apk")
   only for Android version at least `android7.0` or SDK version at least `24`
 # Features
   * Geton and special service request
